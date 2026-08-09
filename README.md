@@ -10,9 +10,6 @@
     <a href="https://t.me/obsidianmusichelp">
       <img src="https://img.shields.io/badge/Telegram-Join%20Chat-2CA5E0?style=for-the-badge&logo=telegram" alt="Join Telegram" />
     </a>
-    <a href="https://www.buymeacoffee.com/varunpanchv">
-      <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-    </a>
     <img src="https://img.shields.io/badge/Kotlin-100%25-7F52FF?style=for-the-badge&logo=kotlin" alt="Kotlin" />
     <img src="https://img.shields.io/badge/Jetpack_Compose-UI-4285F4?style=for-the-badge&logo=android" alt="Jetpack Compose" />
     <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android" alt="Platform: Android" />
@@ -58,16 +55,6 @@ Obsidian Music is a beautifully crafted, feature-rich audio player for Android. 
       <td align="center"><img src="Preview/Pill.jpg" width="250" alt="Live Notification Pill Screen"/></td>
     </tr>
   </table>
-</div>
-
-## ☕ Support the Project
-
-If you love Obsidian Music Player and want to support its ongoing development, consider buying me a coffee! Your support helps keep the project active and continuously improved.
-
-<div align="center">
-  <a href="https://www.buymeacoffee.com/varunpanchv" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px !important;width: 217px !important;">
-  </a>
 </div>
 
 ## 🤝 Community & Support
