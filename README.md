@@ -1,34 +1,32 @@
 <div align="center">
+
   <img src="Preview/obsidian.png" alt="Obsidian Logo" width="120"/>
 
   # Obsidian Music Player 🎵✨
 
-  <p align="center">
-    <strong>A stunning, modern, and perfectly crafted Android music player built with Jetpack Compose.</strong>
-  </p>
+  **A stunning, modern, and perfectly crafted Android music player built with Jetpack Compose.**
 
   <p align="center">
     <a href="https://t.me/obsidianmusichelp">
       <img src="https://img.shields.io/badge/Telegram-Join%20Chat-2CA5E0?style=for-the-badge&logo=telegram" alt="Join Telegram" />
     </a>
-    <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="varunpanchv" data-color="#000000" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#ffffff" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
     <img src="https://img.shields.io/badge/Kotlin-100%25-7F52FF?style=for-the-badge&logo=kotlin" alt="Kotlin" />
     <img src="https://img.shields.io/badge/Jetpack_Compose-UI-4285F4?style=for-the-badge&logo=android" alt="Jetpack Compose" />
+    <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android" alt="Platform: Android" />
   </p>
+
 </div>
 
-<br/>
+---
 
 Obsidian Music is a beautifully crafted, feature-rich audio player for Android. Designed with absolute attention to detail, it leverages the latest Android technologies like **Jetpack Compose** and **Media3 (ExoPlayer)** to deliver a flawlessly smooth, immersive, and premium listening experience.
-
 
 ---
 
 > [!WARNING]
-> **Beta Notice:** This is our initial release! While there are no major critical bugs, you might encounter some minor glitches as we continuously polish and improve the app over time. 
-> 
-> 💬 **Have a feature request or found a bug?** [Join our Telegram Channel]( https://t.me/obsidianmusichelp ) to report issues, suggest features, and chat with the community!
-
+> **Beta Notice:** This is our initial release! While there are no major critical bugs, you might encounter some minor glitches as we continuously polish and improve the app over time.
+>
+> 💬 **Have a feature request or found a bug?** [Join our Telegram Channel](https://t.me/obsidianmusichelp) to report issues, suggest features, and chat with the community!
 
 ---
 
@@ -42,7 +40,7 @@ Obsidian Music is a beautifully crafted, feature-rich audio player for Android. 
 - ⏱️ **Sleep Timer:** Drift off to sleep with a customizable built-in sleep timer.
 - 🚀 **Seamless Background Playback:** Powered by ExoPlayer and `MediaSessionService` for uninterrupted, battery-efficient background listening.
 
-## 📸 Screenshots 
+## 📸 Screenshots
 
 <div align="center">
   <table>
@@ -52,9 +50,9 @@ Obsidian Music is a beautifully crafted, feature-rich audio player for Android. 
       <td align="center"><b>Live Notification Pill</b></td>
     </tr>
     <tr>
-      <td><img src="Preview/Player.jpg" width="250"/></td>
-      <td><img src="Preview/Lyrics.jpg" width="250"/></td>
-      <td><img src="Preview/Pill.jpg" width="250"/></td>
+      <td align="center"><img src="Preview/Player.jpg" width="250" alt="Immersive Player Screen"/></td>
+      <td align="center"><img src="Preview/Lyrics.jpg" width="250" alt="Synced Lyrics Screen"/></td>
+      <td align="center"><img src="Preview/Pill.jpg" width="250" alt="Live Notification Pill Screen"/></td>
     </tr>
   </table>
 </div>
@@ -63,9 +61,10 @@ Obsidian Music is a beautifully crafted, feature-rich audio player for Android. 
 
 Join our Telegram community for updates, feature requests, and to chat with other users!
 
-👉 **[Join Obsidian Telegram](https://t.me/YOUR_TELEGRAM_LINK_HERE)**
+👉 **[Join Obsidian Telegram](https://t.me/obsidianmusichelp)**
 
 ---
+
 <div align="center">
   <sub>Built with ❤️ by an Android enthusiast.</sub>
 </div>
