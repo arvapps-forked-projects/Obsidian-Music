@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.1.1",
-  "downloadUrl": "https://github.com/Varun7009/Obsidian-Music/releases/download/v1.1.1/ObsidianMusic.apk",
-  "releaseNotes": "🎨 Glassmorphic Popups: Stunning new floating windows for Play Queue, Playlists, & Menus.\n⚡ Instant Lyrics Engine: Zero-delay lyrics loading with perfect background timing sync.\n🎧 Dolby Atmos Support: Native spatial audio with real-time quality badges in the player.\n🧑‍🎤 Pure Artist Pages: Strict filtering to show only official artist discographies.\n🛠️ UI & Stability Fixes: Solved menu overlaps, queue scrolling, and Python backend crashes."
+  "versionCode": 6,
+  "versionName": "2.0.0",
+  "downloadUrl": "https://github.com/Varun7009/Obsidian-Music/releases/download/v2.0.0/ObsidianMusic.apk",
+  "releaseNotes": "🌊 120FPS Cinematic Crossfade: Ultra-fluid 3D perspective sweep with GPU blur between songs.\n🎤 Musical 3-Dot Interludes: Apple Music-style instrumental countdown accurately synced to song tempo.\n📱 Redesigned Popups & Scrubber: Sleek glassmorphic player menus, fluid progress bar, & spring animations.\n📋 120Hz Queue Auto-Scroll: Smooth edge auto-scrolling while dragging to reorder tracks.\n🛠️ Spotify Sync & Stability Fixes: Resolved Spotify sync drops, lyrics desync, and post-crossfade glitches."
 }
