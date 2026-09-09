@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "2.0.0",
-  "downloadUrl": "https://github.com/Varun7009/Obsidian-Music/releases/download/v2.0.0/ObsidianMusic.apk",
-  "releaseNotes": "🌊 120FPS Cinematic Crossfade: Ultra-fluid 3D perspective sweep with GPU blur between songs.\n🎤 Musical 3-Dot Interludes: Apple Music-style instrumental countdown accurately synced to song tempo.\n📱 Redesigned Popups & Scrubber: Sleek glassmorphic player menus, fluid progress bar, & spring animations.\n📋 120Hz Queue Auto-Scroll: Smooth edge auto-scrolling while dragging to reorder tracks.\n🛠️ Spotify Sync & Stability Fixes: Resolved Spotify sync drops, lyrics desync, and post-crossfade glitches."
+  "versionCode": 7,
+  "versionName": "2.5.0",
+  "downloadUrl": "https://github.com/Varun7009/Obsidian-Music/releases/download/V2.5.0/ObsidianMusic.apk",
+  "releaseNotes": "🔴 YouTube Music Integration: Stream & search YouTube playlists and tracks directly in the app.\n🎤 Smoother Lyrics: Fixed sentence dip/bounce, natural vocal cutoff timing, and freeze-free crossfade.\n⏭️ Responsive Skip Controls: Fixed unresponsive >> (Skip Next) button during crossfade & rapid taps.\n🔍 Search Tab Fixes: Resolved voice search crashes, search suggestion enter-key bug, and query lag.\n⚡ Silky Smooth 120FPS: Removed heavy FBO rendering and fixed playback crashes for maximum performance."
 }
