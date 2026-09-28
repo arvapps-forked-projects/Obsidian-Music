@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "2.5.0",
-  "downloadUrl": "https://github.com/Varun7009/Obsidian-Music/releases/download/V2.5.0/ObsidianMusic.apk",
-  "releaseNotes": "🔴 YouTube Music Integration: Stream & search YouTube playlists and tracks directly in the app.\n🎤 Smoother Lyrics: Fixed sentence dip/bounce, natural vocal cutoff timing, and freeze-free crossfade.\n⏭️ Responsive Skip Controls: Fixed unresponsive >> (Skip Next) button during crossfade & rapid taps.\n🔍 Search Tab Fixes: Resolved voice search crashes, search suggestion enter-key bug, and query lag.\n⚡ Silky Smooth 120FPS: Removed heavy FBO rendering and fixed playback crashes for maximum performance."
+  "versionCode": 9,
+  "versionName": "2.5.1",
+  "downloadUrl": "https://github.com/Varun7009/Obsidian-Music/releases/download/V2.5.1/ObsidianMusic.apk",
+  "releaseNotes": "💎 Lossless FLAC Audio: Native 24-bit studio master and 16-bit CD-quality uncompressed audio tiers.\n🖼️ High-Res Artwork: Fixed blurry and low-resolution cover art with crisp high-definition image decoding.\n🎤 Seamless Lyrics: Fixed lyric gaps, timing drift across crossfade transitions, and added animated interlude dots.\n📥 YouTube Playlist Imports: Fixed import limits and crashes on large playlists, now importing 500+ tracks accurately.\n⚡ Enhanced Performance & Stability: Fixed rapid-skip metadata freezes, crushed playback bugs, and smoothed UI rendering."
 }
